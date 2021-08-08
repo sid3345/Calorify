@@ -19,7 +19,7 @@ Users can add, edit and delete meals and observe charts concerning their calorie
 
 This application was built using the MERN Stack.
 
-- [MongolDB](https://www.mongodb.com/)
+- [MongoDB](https://www.mongodb.com/)
 - [Express.js](https://expressjs.com/)
 - [React](https://reactjs.org/)
 - [Node.js](https://nodejs.org/en/)
