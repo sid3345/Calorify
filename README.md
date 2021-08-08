@@ -23,6 +23,3 @@ This application was built using the MERN Stack.
 - [Express.js](https://expressjs.com/)
 - [React](https://reactjs.org/)
 - [Node.js](https://nodejs.org/en/)
-- [postman](https://www.postman.com/)
-- [CSS](https://www.w3schools.com/css/)
-- [HTML](https://www.w3schools.com/html/)
