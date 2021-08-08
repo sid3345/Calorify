@@ -2,7 +2,7 @@
 
 Calorie Intake Tracker Web Application with MERN Stack
 
-## What it does
+## Description
 
 The application lets users input their meal and calorie intake. It enables multiple users to track their food and produces charts showing the calorie intake per user and per meal.
 Users can add, edit and delete meals and observe charts concerning their calorie intake.
@@ -15,7 +15,7 @@ Users can add, edit and delete meals and observe charts concerning their calorie
 <img src="./screenshots/bar chart.png">
 <img src="./screenshots/pie chart.png">
 
-### Built with
+### Tech Stack
 
 This application was built using the MERN Stack.
 
